@@ -1,0 +1,22 @@
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook kernel information
+*.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook execution logs
+*.log
+
+# Ignore Jupyter Notebook output files
+*.html
+*.pdf
+*.png
+*.jpg
+*.gif
+*.svg
+
+# Ignore Jupyter Notebook temporary files
+*.tmp
+*.backup
+*.bak
+*.swp
